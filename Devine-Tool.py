@@ -32,7 +32,6 @@ import os
 import sys
 
 os.system('cls || clear')
-ctypes.windll.kernel32.SetConsoleTitleW('Devine Tool | xNetting | Panic Squad')
 print(f'''
 
 {Fore.LIGHTCYAN_EX}    ┌──────────────────────────────────────────────────────────────────────────────────────┐
