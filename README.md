@@ -20,14 +20,18 @@ python3 Devine-Tool.py
 # ⚡ - Funciones
 
 Devine Tool proporciona varias funciones y con ella mas funciones, como esta es una version de uso libre por eso he limitado varias funciones como DDoS & otras que sesupone que esta Tool deberia tener, pero sin mas que decirles les dejo la descripcion de las funciones de esta Herramienta Divina.
+
 - Scanning
+
 3 Tipos de Scan, Port Scan basico, Nmap Scan & otros Scans como Scan de DNS.
 - Encrypt & Decrypt
 
 3 Funciones, generar diccionarios para ataques de fuerza bruta, encriptar datos con utf-8 & desencriptar hashes con wordlist (no incluye wordlist & si generas te recomiendo no excederte con generar con mas de 3 digitos [ PELIGROSO ]).
 - Discord 
+
 Una Funcion para spamear algun server atravez de webhooks.
 - Doxing
+
 3 Funciones, saber informacion de alguna IP, Buscar redes de algun nick o de algun nombre.
 
 # ☘ - Imagenes
