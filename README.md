@@ -23,6 +23,7 @@ Devine Tool proporciona varias funciones y con ella mas funciones, como esta es 
 - Scanning
 3 Tipos de Scan, Port Scan basico, Nmap Scan & otros Scans como Scan de DNS.
 - Encrypt & Decrypt
+- 
 3 Funciones, generar diccionarios para ataques de fuerza bruta, encriptar datos con utf-8 & desencriptar hashes con wordlist (no incluye wordlist & si generas te recomiendo no excederte con generar con mas de 3 digitos [ PELIGROSO ]).
 - Discord 
 Una Funcion para spamear algun server atravez de webhooks.
